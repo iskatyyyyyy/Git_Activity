@@ -1,1 +1,3 @@
 this is my first Git activity
+
+this activity serves as the start of breaking down and understanding Git and GitHub
